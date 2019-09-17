@@ -1,2 +1,2 @@
 # test_git
-hello word
+hello word.
